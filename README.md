@@ -1,1 +1,2 @@
 # atividade_dicionario
+Neste trabalho nós deveríamos criar um site no formato de dicionário utilizando HTML, CSS e JS. Criei botões com as palavras escolhidas por mim, e quando o botão é clicado, uma janela se abre, e nela contém a palavra em inglês e português, classe gramatical e uma frase em inglês. Também tem um botão do conto, no qual quando apertado faz com que o conto criado por mim (com as 10 palavras escolhidas) apareça.
